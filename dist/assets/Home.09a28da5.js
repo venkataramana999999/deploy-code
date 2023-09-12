@@ -1,0 +1,1 @@
+import{l as r}from"./index.bab8c32a.js";import{C as a,a as e}from"./App.f91d8a25.js";import{C as d}from"./CardTitle.39e52fac.js";const m=()=>r("div",{children:r(a,{children:r(e,{children:r(d,{children:"ULB Management"})})})});export{m as default};
